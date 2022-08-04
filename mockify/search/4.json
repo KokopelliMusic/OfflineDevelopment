@@ -1,0 +1,1804 @@
+{
+  "body": {
+    "tracks": {
+      "href": "https://api.spotify.com/v1/search?query=Vluchtstrook&type=track&market=NL&offset=0&limit=20",
+      "items": [
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+                },
+                "href": "https://api.spotify.com/v1/artists/4LcUpNlXFEleaLlelmkv2R",
+                "id": "4LcUpNlXFEleaLlelmkv2R",
+                "name": "Kris Kross Amsterdam",
+                "type": "artist",
+                "uri": "spotify:artist:4LcUpNlXFEleaLlelmkv2R"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+                },
+                "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+                "id": "5sBoNBXFMzoZjgHLbQueeG",
+                "name": "Antoon",
+                "type": "artist",
+                "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+                },
+                "href": "https://api.spotify.com/v1/artists/0JgazfmeUqlV0HSXvs7kvj",
+                "id": "0JgazfmeUqlV0HSXvs7kvj",
+                "name": "Sigourney K",
+                "type": "artist",
+                "uri": "spotify:artist:0JgazfmeUqlV0HSXvs7kvj"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
+            },
+            "href": "https://api.spotify.com/v1/albums/5u2mz0xejDfoNdOqbZaDDm",
+            "id": "5u2mz0xejDfoNdOqbZaDDm",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733246c72e17d5f0f996ec2b22",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023246c72e17d5f0f996ec2b22",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513246c72e17d5f0f996ec2b22",
+                "width": 64
+              }
+            ],
+            "name": "Vluchtstrook",
+            "release_date": "2021-11-26",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:5u2mz0xejDfoNdOqbZaDDm"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+              },
+              "href": "https://api.spotify.com/v1/artists/4LcUpNlXFEleaLlelmkv2R",
+              "id": "4LcUpNlXFEleaLlelmkv2R",
+              "name": "Kris Kross Amsterdam",
+              "type": "artist",
+              "uri": "spotify:artist:4LcUpNlXFEleaLlelmkv2R"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+              },
+              "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+              "id": "5sBoNBXFMzoZjgHLbQueeG",
+              "name": "Antoon",
+              "type": "artist",
+              "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+              },
+              "href": "https://api.spotify.com/v1/artists/0JgazfmeUqlV0HSXvs7kvj",
+              "id": "0JgazfmeUqlV0HSXvs7kvj",
+              "name": "Sigourney K",
+              "type": "artist",
+              "uri": "spotify:artist:0JgazfmeUqlV0HSXvs7kvj"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 148467,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLS242100617"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
+          },
+          "href": "https://api.spotify.com/v1/tracks/63JrADDfrcjOaI6lyVkN3c",
+          "id": "63JrADDfrcjOaI6lyVkN3c",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Vluchtstrook",
+          "popularity": 70,
+          "preview_url": "https://p.scdn.co/mp3-preview/30ffa0f9c744889fec8e4c0c9d90b42835b8c0b6?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:63JrADDfrcjOaI6lyVkN3c"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+                },
+                "href": "https://api.spotify.com/v1/artists/4LcUpNlXFEleaLlelmkv2R",
+                "id": "4LcUpNlXFEleaLlelmkv2R",
+                "name": "Kris Kross Amsterdam",
+                "type": "artist",
+                "uri": "spotify:artist:4LcUpNlXFEleaLlelmkv2R"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+                },
+                "href": "https://api.spotify.com/v1/artists/7IFPeV5Ew63S7Hid0AjNgK",
+                "id": "7IFPeV5Ew63S7Hid0AjNgK",
+                "name": "Sound Rush",
+                "type": "artist",
+                "uri": "spotify:artist:7IFPeV5Ew63S7Hid0AjNgK"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1aYLG6jDu6GtEqWe3RnwcV"
+            },
+            "href": "https://api.spotify.com/v1/albums/1aYLG6jDu6GtEqWe3RnwcV",
+            "id": "1aYLG6jDu6GtEqWe3RnwcV",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730c8b12b3327af7de26df0f79",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020c8b12b3327af7de26df0f79",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510c8b12b3327af7de26df0f79",
+                "width": 64
+              }
+            ],
+            "name": "Vluchtstrook (Sound Rush Remix)",
+            "release_date": "2022-04-22",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:1aYLG6jDu6GtEqWe3RnwcV"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+              },
+              "href": "https://api.spotify.com/v1/artists/4LcUpNlXFEleaLlelmkv2R",
+              "id": "4LcUpNlXFEleaLlelmkv2R",
+              "name": "Kris Kross Amsterdam",
+              "type": "artist",
+              "uri": "spotify:artist:4LcUpNlXFEleaLlelmkv2R"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+              },
+              "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+              "id": "5sBoNBXFMzoZjgHLbQueeG",
+              "name": "Antoon",
+              "type": "artist",
+              "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+              },
+              "href": "https://api.spotify.com/v1/artists/0JgazfmeUqlV0HSXvs7kvj",
+              "id": "0JgazfmeUqlV0HSXvs7kvj",
+              "name": "Sigourney K",
+              "type": "artist",
+              "uri": "spotify:artist:0JgazfmeUqlV0HSXvs7kvj"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+              },
+              "href": "https://api.spotify.com/v1/artists/7IFPeV5Ew63S7Hid0AjNgK",
+              "id": "7IFPeV5Ew63S7Hid0AjNgK",
+              "name": "Sound Rush",
+              "type": "artist",
+              "uri": "spotify:artist:7IFPeV5Ew63S7Hid0AjNgK"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 178072,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLS242200081"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3EO5M4SVTz6XinImb0Q95K"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3EO5M4SVTz6XinImb0Q95K",
+          "id": "3EO5M4SVTz6XinImb0Q95K",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Vluchtstrook - Sound Rush Remix",
+          "popularity": 57,
+          "preview_url": "https://p.scdn.co/mp3-preview/c9151d4941beb1111983110628d1df6431af7a69?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3EO5M4SVTz6XinImb0Q95K"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+                },
+                "href": "https://api.spotify.com/v1/artists/4owt1GWUqAh4gsXT13roop",
+                "id": "4owt1GWUqAh4gsXT13roop",
+                "name": "Jairzinho",
+                "type": "artist",
+                "uri": "spotify:artist:4owt1GWUqAh4gsXT13roop"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0NPb3RtqHHX8p5JGlE1Pf4"
+            },
+            "href": "https://api.spotify.com/v1/albums/0NPb3RtqHHX8p5JGlE1Pf4",
+            "id": "0NPb3RtqHHX8p5JGlE1Pf4",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27346ca073c08a47eade087f38f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0246ca073c08a47eade087f38f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485146ca073c08a47eade087f38f",
+                "width": 64
+              }
+            ],
+            "name": "Vluchtstrook",
+            "release_date": "2022-06-16",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:0NPb3RtqHHX8p5JGlE1Pf4"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+              },
+              "href": "https://api.spotify.com/v1/artists/4owt1GWUqAh4gsXT13roop",
+              "id": "4owt1GWUqAh4gsXT13roop",
+              "name": "Jairzinho",
+              "type": "artist",
+              "uri": "spotify:artist:4owt1GWUqAh4gsXT13roop"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 144796,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "NLS5K2200026"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7oCKFV6bpnTlSLjdbfQuRn"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7oCKFV6bpnTlSLjdbfQuRn",
+          "id": "7oCKFV6bpnTlSLjdbfQuRn",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Vluchtstrook",
+          "popularity": 42,
+          "preview_url": "https://p.scdn.co/mp3-preview/462121217c178774b3fb39a2813784f6c2be7426?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:7oCKFV6bpnTlSLjdbfQuRn"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/3lC07j0oFDXJflpeAjo9eZ",
+                "id": "3lC07j0oFDXJflpeAjo9eZ",
+                "name": "BENR",
+                "type": "artist",
+                "uri": "spotify:artist:3lC07j0oFDXJflpeAjo9eZ"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1wTVqMjzWzWVoqMh77QJ1O"
+            },
+            "href": "https://api.spotify.com/v1/albums/1wTVqMjzWzWVoqMh77QJ1O",
+            "id": "1wTVqMjzWzWVoqMh77QJ1O",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b8598a59e4721f9fc6049624",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b8598a59e4721f9fc6049624",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b8598a59e4721f9fc6049624",
+                "width": 64
+              }
+            ],
+            "name": "Vluchtstrook",
+            "release_date": "2017-02-27",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:1wTVqMjzWzWVoqMh77QJ1O"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/3lC07j0oFDXJflpeAjo9eZ",
+              "id": "3lC07j0oFDXJflpeAjo9eZ",
+              "name": "BENR",
+              "type": "artist",
+              "uri": "spotify:artist:3lC07j0oFDXJflpeAjo9eZ"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 148500,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLS242200036"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4phop1SaCRkKuYtctCUs45"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4phop1SaCRkKuYtctCUs45",
+          "id": "4phop1SaCRkKuYtctCUs45",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Vluchtstrook",
+          "popularity": 38,
+          "preview_url": "https://p.scdn.co/mp3-preview/51401abe106f7c797ceaa33d5a61b7e3b038f064?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:4phop1SaCRkKuYtctCUs45"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+                },
+                "href": "https://api.spotify.com/v1/artists/0YLlTW9rW7ZCy2cA2u3RYk",
+                "id": "0YLlTW9rW7ZCy2cA2u3RYk",
+                "name": "FLEMMING",
+                "type": "artist",
+                "uri": "spotify:artist:0YLlTW9rW7ZCy2cA2u3RYk"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
+            },
+            "href": "https://api.spotify.com/v1/albums/3TP2sh6pFJWU0NMDuLycUz",
+            "id": "3TP2sh6pFJWU0NMDuLycUz",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273898ccd4ff8e110583ff8778c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02898ccd4ff8e110583ff8778c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851898ccd4ff8e110583ff8778c",
+                "width": 64
+              }
+            ],
+            "name": "Amsterdam",
+            "release_date": "2021-09-24",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:3TP2sh6pFJWU0NMDuLycUz"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+              },
+              "href": "https://api.spotify.com/v1/artists/0YLlTW9rW7ZCy2cA2u3RYk",
+              "id": "0YLlTW9rW7ZCy2cA2u3RYk",
+              "name": "FLEMMING",
+              "type": "artist",
+              "uri": "spotify:artist:0YLlTW9rW7ZCy2cA2u3RYk"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 172235,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLZ292100200"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0GRc10CjRqO0wtXUnxR1uY",
+          "id": "0GRc10CjRqO0wtXUnxR1uY",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Amsterdam",
+          "popularity": 69,
+          "preview_url": "https://p.scdn.co/mp3-preview/bfb2113e4844b68969f6019f0f9f493b0d54dfc3?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:0GRc10CjRqO0wtXUnxR1uY"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY"
+                },
+                "href": "https://api.spotify.com/v1/artists/3woT4KWjwgvrxKTw8tf4AY",
+                "id": "3woT4KWjwgvrxKTw8tf4AY",
+                "name": "James Homard",
+                "type": "artist",
+                "uri": "spotify:artist:3woT4KWjwgvrxKTw8tf4AY"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/3i0IHC26K0Ofi7NSZcEFGN"
+            },
+            "href": "https://api.spotify.com/v1/albums/3i0IHC26K0Ofi7NSZcEFGN",
+            "id": "3i0IHC26K0Ofi7NSZcEFGN",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273dfdd0476baa7359241c4796f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02dfdd0476baa7359241c4796f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851dfdd0476baa7359241c4796f",
+                "width": 64
+              }
+            ],
+            "name": "Vluchtstrook (neoclassical piano version)",
+            "release_date": "2022-06-17",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:3i0IHC26K0Ofi7NSZcEFGN"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY"
+              },
+              "href": "https://api.spotify.com/v1/artists/3woT4KWjwgvrxKTw8tf4AY",
+              "id": "3woT4KWjwgvrxKTw8tf4AY",
+              "name": "James Homard",
+              "type": "artist",
+              "uri": "spotify:artist:3woT4KWjwgvrxKTw8tf4AY"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 151895,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NL7JX2200002"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/65fcQChmpujgndAqPjscP9"
+          },
+          "href": "https://api.spotify.com/v1/tracks/65fcQChmpujgndAqPjscP9",
+          "id": "65fcQChmpujgndAqPjscP9",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Vluchtstrook - neoclassical piano version",
+          "popularity": 33,
+          "preview_url": "https://p.scdn.co/mp3-preview/04b6de5d0c7a01b128ac4e51ddcad80b39e0930a?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:65fcQChmpujgndAqPjscP9"
+        },
+        {
+          "album": {
+            "album_type": "compilation",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                },
+                "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                "id": "0LyfQWJT6nXafLPZqxe9Of",
+                "name": "Various Artists",
+                "type": "artist",
+                "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6Pp8ijjMjt2WCcwSyBsdoy"
+            },
+            "href": "https://api.spotify.com/v1/albums/6Pp8ijjMjt2WCcwSyBsdoy",
+            "id": "6Pp8ijjMjt2WCcwSyBsdoy",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730518b567c933e780b64866db",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020518b567c933e780b64866db",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510518b567c933e780b64866db",
+                "width": 64
+              }
+            ],
+            "name": "Kids Top 100 2022",
+            "release_date": "2022-04-15",
+            "release_date_precision": "day",
+            "total_tracks": 100,
+            "type": "album",
+            "uri": "spotify:album:6Pp8ijjMjt2WCcwSyBsdoy"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+              },
+              "href": "https://api.spotify.com/v1/artists/4LcUpNlXFEleaLlelmkv2R",
+              "id": "4LcUpNlXFEleaLlelmkv2R",
+              "name": "Kris Kross Amsterdam",
+              "type": "artist",
+              "uri": "spotify:artist:4LcUpNlXFEleaLlelmkv2R"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+              },
+              "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+              "id": "5sBoNBXFMzoZjgHLbQueeG",
+              "name": "Antoon",
+              "type": "artist",
+              "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+              },
+              "href": "https://api.spotify.com/v1/artists/0JgazfmeUqlV0HSXvs7kvj",
+              "id": "0JgazfmeUqlV0HSXvs7kvj",
+              "name": "Sigourney K",
+              "type": "artist",
+              "uri": "spotify:artist:0JgazfmeUqlV0HSXvs7kvj"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 148467,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLS242100617"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6g2zknRjhzuZoKFsNnRAam"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6g2zknRjhzuZoKFsNnRAam",
+          "id": "6g2zknRjhzuZoKFsNnRAam",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Vluchtstrook",
+          "popularity": 14,
+          "preview_url": "https://p.scdn.co/mp3-preview/33c5eb2ec537549724a9d2e15f2b2d24365559db?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 9,
+          "type": "track",
+          "uri": "spotify:track:6g2zknRjhzuZoKFsNnRAam"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+                },
+                "href": "https://api.spotify.com/v1/artists/0YLlTW9rW7ZCy2cA2u3RYk",
+                "id": "0YLlTW9rW7ZCy2cA2u3RYk",
+                "name": "FLEMMING",
+                "type": "artist",
+                "uri": "spotify:artist:0YLlTW9rW7ZCy2cA2u3RYk"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR"
+            },
+            "href": "https://api.spotify.com/v1/albums/0NIlQZDDCGRMDuZbujA2ZR",
+            "id": "0NIlQZDDCGRMDuZbujA2ZR",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f9e4c7c6c12df526810c0423",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f9e4c7c6c12df526810c0423",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f9e4c7c6c12df526810c0423",
+                "width": 64
+              }
+            ],
+            "name": "Zij Wil Mij",
+            "release_date": "2021-12-31",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:0NIlQZDDCGRMDuZbujA2ZR"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+              },
+              "href": "https://api.spotify.com/v1/artists/0YLlTW9rW7ZCy2cA2u3RYk",
+              "id": "0YLlTW9rW7ZCy2cA2u3RYk",
+              "name": "FLEMMING",
+              "type": "artist",
+              "uri": "spotify:artist:0YLlTW9rW7ZCy2cA2u3RYk"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 156000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLZ292100231"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3Falq0rEoroeaZqNp9UDIY",
+          "id": "3Falq0rEoroeaZqNp9UDIY",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Zij Wil Mij",
+          "popularity": 66,
+          "preview_url": "https://p.scdn.co/mp3-preview/28b9be33a70b051075f1ad0b81775e75c7f93570?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3Falq0rEoroeaZqNp9UDIY"
+        },
+        {
+          "album": {
+            "album_type": "compilation",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                },
+                "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                "id": "0LyfQWJT6nXafLPZqxe9Of",
+                "name": "Various Artists",
+                "type": "artist",
+                "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/39EJDtKixvx7qO3WVHtp20"
+            },
+            "href": "https://api.spotify.com/v1/albums/39EJDtKixvx7qO3WVHtp20",
+            "id": "39EJDtKixvx7qO3WVHtp20",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27394fc7c7e8f64ddb0527589f2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0294fc7c7e8f64ddb0527589f2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485194fc7c7e8f64ddb0527589f2",
+                "width": 64
+              }
+            ],
+            "name": "het beste uit de TOP 40 2022 #1",
+            "release_date": "2022-05-20",
+            "release_date_precision": "day",
+            "total_tracks": 26,
+            "type": "album",
+            "uri": "spotify:album:39EJDtKixvx7qO3WVHtp20"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+              },
+              "href": "https://api.spotify.com/v1/artists/4LcUpNlXFEleaLlelmkv2R",
+              "id": "4LcUpNlXFEleaLlelmkv2R",
+              "name": "Kris Kross Amsterdam",
+              "type": "artist",
+              "uri": "spotify:artist:4LcUpNlXFEleaLlelmkv2R"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+              },
+              "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+              "id": "5sBoNBXFMzoZjgHLbQueeG",
+              "name": "Antoon",
+              "type": "artist",
+              "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+              },
+              "href": "https://api.spotify.com/v1/artists/0JgazfmeUqlV0HSXvs7kvj",
+              "id": "0JgazfmeUqlV0HSXvs7kvj",
+              "name": "Sigourney K",
+              "type": "artist",
+              "uri": "spotify:artist:0JgazfmeUqlV0HSXvs7kvj"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 148467,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLS242100617"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1oomy4q16BQactRNXuQ9sz"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1oomy4q16BQactRNXuQ9sz",
+          "id": "1oomy4q16BQactRNXuQ9sz",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Vluchtstrook",
+          "popularity": 10,
+          "preview_url": "https://p.scdn.co/mp3-preview/33c5eb2ec537549724a9d2e15f2b2d24365559db?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:1oomy4q16BQactRNXuQ9sz"
+        },
+        {
+          "album": {
+            "album_type": "compilation",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                },
+                "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                "id": "0LyfQWJT6nXafLPZqxe9Of",
+                "name": "Various Artists",
+                "type": "artist",
+                "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/69ueUJgWC3lVTEsVm12Bkd"
+            },
+            "href": "https://api.spotify.com/v1/albums/69ueUJgWC3lVTEsVm12Bkd",
+            "id": "69ueUJgWC3lVTEsVm12Bkd",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27388874e9ef4e1f734a7c22de7",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0288874e9ef4e1f734a7c22de7",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485188874e9ef4e1f734a7c22de7",
+                "width": 64
+              }
+            ],
+            "name": "De Grootste Zomer Hits Van 2022",
+            "release_date": "2022-06-10",
+            "release_date_precision": "day",
+            "total_tracks": 50,
+            "type": "album",
+            "uri": "spotify:album:69ueUJgWC3lVTEsVm12Bkd"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+              },
+              "href": "https://api.spotify.com/v1/artists/4LcUpNlXFEleaLlelmkv2R",
+              "id": "4LcUpNlXFEleaLlelmkv2R",
+              "name": "Kris Kross Amsterdam",
+              "type": "artist",
+              "uri": "spotify:artist:4LcUpNlXFEleaLlelmkv2R"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+              },
+              "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+              "id": "5sBoNBXFMzoZjgHLbQueeG",
+              "name": "Antoon",
+              "type": "artist",
+              "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+              },
+              "href": "https://api.spotify.com/v1/artists/0JgazfmeUqlV0HSXvs7kvj",
+              "id": "0JgazfmeUqlV0HSXvs7kvj",
+              "name": "Sigourney K",
+              "type": "artist",
+              "uri": "spotify:artist:0JgazfmeUqlV0HSXvs7kvj"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 148467,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLS242100617"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7tpTrKUOQ0huonUC1d0AC0"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7tpTrKUOQ0huonUC1d0AC0",
+          "id": "7tpTrKUOQ0huonUC1d0AC0",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Vluchtstrook",
+          "popularity": 5,
+          "preview_url": "https://p.scdn.co/mp3-preview/33c5eb2ec537549724a9d2e15f2b2d24365559db?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 14,
+          "type": "track",
+          "uri": "spotify:track:7tpTrKUOQ0huonUC1d0AC0"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/35Q9Jkoyt1TnlzDzKIrRoP"
+                },
+                "href": "https://api.spotify.com/v1/artists/35Q9Jkoyt1TnlzDzKIrRoP",
+                "id": "35Q9Jkoyt1TnlzDzKIrRoP",
+                "name": "Riico",
+                "type": "artist",
+                "uri": "spotify:artist:35Q9Jkoyt1TnlzDzKIrRoP"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/62x7nLLv29XPnHxMAPGZvV"
+            },
+            "href": "https://api.spotify.com/v1/albums/62x7nLLv29XPnHxMAPGZvV",
+            "id": "62x7nLLv29XPnHxMAPGZvV",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734f345c57e994b3a622191431",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024f345c57e994b3a622191431",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514f345c57e994b3a622191431",
+                "width": 64
+              }
+            ],
+            "name": "Vluchtstrook",
+            "release_date": "2018-11-07",
+            "release_date_precision": "day",
+            "total_tracks": 3,
+            "type": "album",
+            "uri": "spotify:album:62x7nLLv29XPnHxMAPGZvV"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/35Q9Jkoyt1TnlzDzKIrRoP"
+              },
+              "href": "https://api.spotify.com/v1/artists/35Q9Jkoyt1TnlzDzKIrRoP",
+              "id": "35Q9Jkoyt1TnlzDzKIrRoP",
+              "name": "Riico",
+              "type": "artist",
+              "uri": "spotify:artist:35Q9Jkoyt1TnlzDzKIrRoP"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0vJWKrLQf8XMoGJTTW0XKq"
+              },
+              "href": "https://api.spotify.com/v1/artists/0vJWKrLQf8XMoGJTTW0XKq",
+              "id": "0vJWKrLQf8XMoGJTTW0XKq",
+              "name": "Bolle G",
+              "type": "artist",
+              "uri": "spotify:artist:0vJWKrLQf8XMoGJTTW0XKq"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 164050,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZES61856772"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4Xg0KSCTOJyuPy43GryGGP"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4Xg0KSCTOJyuPy43GryGGP",
+          "id": "4Xg0KSCTOJyuPy43GryGGP",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Vergeet Mij",
+          "popularity": 8,
+          "preview_url": "https://p.scdn.co/mp3-preview/d3ee1d169866412dce39a91de9fc750445b3b1b1?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:4Xg0KSCTOJyuPy43GryGGP"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+                },
+                "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+                "id": "5sBoNBXFMzoZjgHLbQueeG",
+                "name": "Antoon",
+                "type": "artist",
+                "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1"
+            },
+            "href": "https://api.spotify.com/v1/albums/4K6Rcm7dBmWNsHclnRWQO1",
+            "id": "4K6Rcm7dBmWNsHclnRWQO1",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b7197bf32f5719735bb3c046",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b7197bf32f5719735bb3c046",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b7197bf32f5719735bb3c046",
+                "width": 64
+              }
+            ],
+            "name": "Hallo",
+            "release_date": "2022-03-04",
+            "release_date_precision": "day",
+            "total_tracks": 4,
+            "type": "album",
+            "uri": "spotify:album:4K6Rcm7dBmWNsHclnRWQO1"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+              },
+              "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+              "id": "5sBoNBXFMzoZjgHLbQueeG",
+              "name": "Antoon",
+              "type": "artist",
+              "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 132274,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLS242200019"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr"
+          },
+          "href": "https://api.spotify.com/v1/tracks/7GwNDFyxvpHAd4l1IfUDmr",
+          "id": "7GwNDFyxvpHAd4l1IfUDmr",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Hallo",
+          "popularity": 70,
+          "preview_url": "https://p.scdn.co/mp3-preview/c49e34e135967092da95e9e34323283d7b67b3ce?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:7GwNDFyxvpHAd4l1IfUDmr"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP"
+                },
+                "href": "https://api.spotify.com/v1/artists/5KZPlP5jQGBF3Z1kUq2ZUP",
+                "id": "5KZPlP5jQGBF3Z1kUq2ZUP",
+                "name": "Youp van 't Hek",
+                "type": "artist",
+                "uri": "spotify:artist:5KZPlP5jQGBF3Z1kUq2ZUP"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3gN3E0w6nm0KASQMo6gj1k"
+                },
+                "href": "https://api.spotify.com/v1/artists/3gN3E0w6nm0KASQMo6gj1k",
+                "id": "3gN3E0w6nm0KASQMo6gj1k",
+                "name": "Onno Molenkamp",
+                "type": "artist",
+                "uri": "spotify:artist:3gN3E0w6nm0KASQMo6gj1k"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1bX8Zc5jJG5a2Lp4kdaFKw"
+            },
+            "href": "https://api.spotify.com/v1/albums/1bX8Zc5jJG5a2Lp4kdaFKw",
+            "id": "1bX8Zc5jJG5a2Lp4kdaFKw",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b8ad14fdb4a9cae4b78aaaa2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b8ad14fdb4a9cae4b78aaaa2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b8ad14fdb4a9cae4b78aaaa2",
+                "width": 64
+              }
+            ],
+            "name": "Tunnel Zonder Vluchtstrook",
+            "release_date": "1987",
+            "release_date_precision": "year",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:1bX8Zc5jJG5a2Lp4kdaFKw"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP"
+              },
+              "href": "https://api.spotify.com/v1/artists/5KZPlP5jQGBF3Z1kUq2ZUP",
+              "id": "5KZPlP5jQGBF3Z1kUq2ZUP",
+              "name": "Youp van 't Hek",
+              "type": "artist",
+              "uri": "spotify:artist:5KZPlP5jQGBF3Z1kUq2ZUP"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3gN3E0w6nm0KASQMo6gj1k"
+              },
+              "href": "https://api.spotify.com/v1/artists/3gN3E0w6nm0KASQMo6gj1k",
+              "id": "3gN3E0w6nm0KASQMo6gj1k",
+              "name": "Onno Molenkamp",
+              "type": "artist",
+              "uri": "spotify:artist:3gN3E0w6nm0KASQMo6gj1k"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 201960,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLA240303888"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3PWzSydsKELV3Z4ZS1NUl6"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3PWzSydsKELV3Z4ZS1NUl6",
+          "id": "3PWzSydsKELV3Z4ZS1NUl6",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Tunnel Zonder Vluchtstrook - Lied",
+          "popularity": 4,
+          "preview_url": "https://p.scdn.co/mp3-preview/1b1ccca8b5f01b19f55b770770fdd6e5e9c390cd?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:3PWzSydsKELV3Z4ZS1NUl6"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+                },
+                "href": "https://api.spotify.com/v1/artists/3E31HqA00iCX9nRhesw6LD",
+                "id": "3E31HqA00iCX9nRhesw6LD",
+                "name": "Snelle",
+                "type": "artist",
+                "uri": "spotify:artist:3E31HqA00iCX9nRhesw6LD"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5KfHHLVq8gHlyZSbDkDLbp"
+            },
+            "href": "https://api.spotify.com/v1/albums/5KfHHLVq8gHlyZSbDkDLbp",
+            "id": "5KfHHLVq8gHlyZSbDkDLbp",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273933769641d37ec4eecb4a109",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02933769641d37ec4eecb4a109",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851933769641d37ec4eecb4a109",
+                "width": 64
+              }
+            ],
+            "name": "Niks Mee Te Maken / Pizza Met Ananas",
+            "release_date": "2022-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 2,
+            "type": "album",
+            "uri": "spotify:album:5KfHHLVq8gHlyZSbDkDLbp"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+              },
+              "href": "https://api.spotify.com/v1/artists/3E31HqA00iCX9nRhesw6LD",
+              "id": "3E31HqA00iCX9nRhesw6LD",
+              "name": "Snelle",
+              "type": "artist",
+              "uri": "spotify:artist:3E31HqA00iCX9nRhesw6LD"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 172561,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLR1T2200010"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3wumtijPLTctdCnXASPH0C"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3wumtijPLTctdCnXASPH0C",
+          "id": "3wumtijPLTctdCnXASPH0C",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Niks Mee Te Maken",
+          "popularity": 51,
+          "preview_url": "https://p.scdn.co/mp3-preview/4d234f7218870c7de7b85fa8d8604302329d4685?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3wumtijPLTctdCnXASPH0C"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP"
+                },
+                "href": "https://api.spotify.com/v1/artists/5KZPlP5jQGBF3Z1kUq2ZUP",
+                "id": "5KZPlP5jQGBF3Z1kUq2ZUP",
+                "name": "Youp van 't Hek",
+                "type": "artist",
+                "uri": "spotify:artist:5KZPlP5jQGBF3Z1kUq2ZUP"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3gN3E0w6nm0KASQMo6gj1k"
+                },
+                "href": "https://api.spotify.com/v1/artists/3gN3E0w6nm0KASQMo6gj1k",
+                "id": "3gN3E0w6nm0KASQMo6gj1k",
+                "name": "Onno Molenkamp",
+                "type": "artist",
+                "uri": "spotify:artist:3gN3E0w6nm0KASQMo6gj1k"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1bX8Zc5jJG5a2Lp4kdaFKw"
+            },
+            "href": "https://api.spotify.com/v1/albums/1bX8Zc5jJG5a2Lp4kdaFKw",
+            "id": "1bX8Zc5jJG5a2Lp4kdaFKw",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b8ad14fdb4a9cae4b78aaaa2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b8ad14fdb4a9cae4b78aaaa2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b8ad14fdb4a9cae4b78aaaa2",
+                "width": 64
+              }
+            ],
+            "name": "Tunnel Zonder Vluchtstrook",
+            "release_date": "1987",
+            "release_date_precision": "year",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:1bX8Zc5jJG5a2Lp4kdaFKw"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP"
+              },
+              "href": "https://api.spotify.com/v1/artists/5KZPlP5jQGBF3Z1kUq2ZUP",
+              "id": "5KZPlP5jQGBF3Z1kUq2ZUP",
+              "name": "Youp van 't Hek",
+              "type": "artist",
+              "uri": "spotify:artist:5KZPlP5jQGBF3Z1kUq2ZUP"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3gN3E0w6nm0KASQMo6gj1k"
+              },
+              "href": "https://api.spotify.com/v1/artists/3gN3E0w6nm0KASQMo6gj1k",
+              "id": "3gN3E0w6nm0KASQMo6gj1k",
+              "name": "Onno Molenkamp",
+              "type": "artist",
+              "uri": "spotify:artist:3gN3E0w6nm0KASQMo6gj1k"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 111466,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLA240604158"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1CpPHsJlcHgVLeZe4APtuA"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1CpPHsJlcHgVLeZe4APtuA",
+          "id": "1CpPHsJlcHgVLeZe4APtuA",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Onno Stopt Ermee",
+          "popularity": 4,
+          "preview_url": "https://p.scdn.co/mp3-preview/b33ac0e9d5d3aaf86009fbffd4c2e3977322818b?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:1CpPHsJlcHgVLeZe4APtuA"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+                },
+                "href": "https://api.spotify.com/v1/artists/0YLlTW9rW7ZCy2cA2u3RYk",
+                "id": "0YLlTW9rW7ZCy2cA2u3RYk",
+                "name": "FLEMMING",
+                "type": "artist",
+                "uri": "spotify:artist:0YLlTW9rW7ZCy2cA2u3RYk"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+            },
+            "href": "https://api.spotify.com/v1/albums/1ORFwaAJM7agyaN1ZLiUHs",
+            "id": "1ORFwaAJM7agyaN1ZLiUHs",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273dc3baf87ca57d3097d12287f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02dc3baf87ca57d3097d12287f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851dc3baf87ca57d3097d12287f",
+                "width": 64
+              }
+            ],
+            "name": "Automatisch",
+            "release_date": "2022-04-29",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:1ORFwaAJM7agyaN1ZLiUHs"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+              },
+              "href": "https://api.spotify.com/v1/artists/0YLlTW9rW7ZCy2cA2u3RYk",
+              "id": "0YLlTW9rW7ZCy2cA2u3RYk",
+              "name": "FLEMMING",
+              "type": "artist",
+              "uri": "spotify:artist:0YLlTW9rW7ZCy2cA2u3RYk"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 165768,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLZ292200042"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2WeAyT93f7IzrwXm3ZJMb2",
+          "id": "2WeAyT93f7IzrwXm3ZJMb2",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Automatisch",
+          "popularity": 73,
+          "preview_url": "https://p.scdn.co/mp3-preview/88a9616bac622b761f5808de2ecbd06b43c2b0ad?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:2WeAyT93f7IzrwXm3ZJMb2"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP"
+                },
+                "href": "https://api.spotify.com/v1/artists/5KZPlP5jQGBF3Z1kUq2ZUP",
+                "id": "5KZPlP5jQGBF3Z1kUq2ZUP",
+                "name": "Youp van 't Hek",
+                "type": "artist",
+                "uri": "spotify:artist:5KZPlP5jQGBF3Z1kUq2ZUP"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3gN3E0w6nm0KASQMo6gj1k"
+                },
+                "href": "https://api.spotify.com/v1/artists/3gN3E0w6nm0KASQMo6gj1k",
+                "id": "3gN3E0w6nm0KASQMo6gj1k",
+                "name": "Onno Molenkamp",
+                "type": "artist",
+                "uri": "spotify:artist:3gN3E0w6nm0KASQMo6gj1k"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1bX8Zc5jJG5a2Lp4kdaFKw"
+            },
+            "href": "https://api.spotify.com/v1/albums/1bX8Zc5jJG5a2Lp4kdaFKw",
+            "id": "1bX8Zc5jJG5a2Lp4kdaFKw",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b8ad14fdb4a9cae4b78aaaa2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b8ad14fdb4a9cae4b78aaaa2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b8ad14fdb4a9cae4b78aaaa2",
+                "width": 64
+              }
+            ],
+            "name": "Tunnel Zonder Vluchtstrook",
+            "release_date": "1987",
+            "release_date_precision": "year",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:1bX8Zc5jJG5a2Lp4kdaFKw"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP"
+              },
+              "href": "https://api.spotify.com/v1/artists/5KZPlP5jQGBF3Z1kUq2ZUP",
+              "id": "5KZPlP5jQGBF3Z1kUq2ZUP",
+              "name": "Youp van 't Hek",
+              "type": "artist",
+              "uri": "spotify:artist:5KZPlP5jQGBF3Z1kUq2ZUP"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3gN3E0w6nm0KASQMo6gj1k"
+              },
+              "href": "https://api.spotify.com/v1/artists/3gN3E0w6nm0KASQMo6gj1k",
+              "id": "3gN3E0w6nm0KASQMo6gj1k",
+              "name": "Onno Molenkamp",
+              "type": "artist",
+              "uri": "spotify:artist:3gN3E0w6nm0KASQMo6gj1k"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 289240,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLA240604161"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6R7mYKor3XrMf1C3BWTeZE"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6R7mYKor3XrMf1C3BWTeZE",
+          "id": "6R7mYKor3XrMf1C3BWTeZE",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Revolutie",
+          "popularity": 4,
+          "preview_url": "https://p.scdn.co/mp3-preview/7733a9642c9ecf9e9627b988746bb091d0dc9c06?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:6R7mYKor3XrMf1C3BWTeZE"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP"
+                },
+                "href": "https://api.spotify.com/v1/artists/5KZPlP5jQGBF3Z1kUq2ZUP",
+                "id": "5KZPlP5jQGBF3Z1kUq2ZUP",
+                "name": "Youp van 't Hek",
+                "type": "artist",
+                "uri": "spotify:artist:5KZPlP5jQGBF3Z1kUq2ZUP"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3gN3E0w6nm0KASQMo6gj1k"
+                },
+                "href": "https://api.spotify.com/v1/artists/3gN3E0w6nm0KASQMo6gj1k",
+                "id": "3gN3E0w6nm0KASQMo6gj1k",
+                "name": "Onno Molenkamp",
+                "type": "artist",
+                "uri": "spotify:artist:3gN3E0w6nm0KASQMo6gj1k"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1bX8Zc5jJG5a2Lp4kdaFKw"
+            },
+            "href": "https://api.spotify.com/v1/albums/1bX8Zc5jJG5a2Lp4kdaFKw",
+            "id": "1bX8Zc5jJG5a2Lp4kdaFKw",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b8ad14fdb4a9cae4b78aaaa2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b8ad14fdb4a9cae4b78aaaa2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b8ad14fdb4a9cae4b78aaaa2",
+                "width": 64
+              }
+            ],
+            "name": "Tunnel Zonder Vluchtstrook",
+            "release_date": "1987",
+            "release_date_precision": "year",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:1bX8Zc5jJG5a2Lp4kdaFKw"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP"
+              },
+              "href": "https://api.spotify.com/v1/artists/5KZPlP5jQGBF3Z1kUq2ZUP",
+              "id": "5KZPlP5jQGBF3Z1kUq2ZUP",
+              "name": "Youp van 't Hek",
+              "type": "artist",
+              "uri": "spotify:artist:5KZPlP5jQGBF3Z1kUq2ZUP"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3gN3E0w6nm0KASQMo6gj1k"
+              },
+              "href": "https://api.spotify.com/v1/artists/3gN3E0w6nm0KASQMo6gj1k",
+              "id": "3gN3E0w6nm0KASQMo6gj1k",
+              "name": "Onno Molenkamp",
+              "type": "artist",
+              "uri": "spotify:artist:3gN3E0w6nm0KASQMo6gj1k"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 217333,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLA240303880"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3prYtzRAuNKJ3qzBsJwgFQ"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3prYtzRAuNKJ3qzBsJwgFQ",
+          "id": "3prYtzRAuNKJ3qzBsJwgFQ",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Welkom/Nouvelle Cuisine",
+          "popularity": 3,
+          "preview_url": "https://p.scdn.co/mp3-preview/618ce3486ba4e1785dbf32862fb0d05ea6b69cfa?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:3prYtzRAuNKJ3qzBsJwgFQ"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+                },
+                "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+                "id": "5sBoNBXFMzoZjgHLbQueeG",
+                "name": "Antoon",
+                "type": "artist",
+                "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1"
+            },
+            "href": "https://api.spotify.com/v1/albums/4K6Rcm7dBmWNsHclnRWQO1",
+            "id": "4K6Rcm7dBmWNsHclnRWQO1",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b7197bf32f5719735bb3c046",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b7197bf32f5719735bb3c046",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b7197bf32f5719735bb3c046",
+                "width": 64
+              }
+            ],
+            "name": "Hallo",
+            "release_date": "2022-03-04",
+            "release_date_precision": "day",
+            "total_tracks": 4,
+            "type": "album",
+            "uri": "spotify:album:4K6Rcm7dBmWNsHclnRWQO1"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+              },
+              "href": "https://api.spotify.com/v1/artists/5sBoNBXFMzoZjgHLbQueeG",
+              "id": "5sBoNBXFMzoZjgHLbQueeG",
+              "name": "Antoon",
+              "type": "artist",
+              "uri": "spotify:artist:5sBoNBXFMzoZjgHLbQueeG"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 141068,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLS242200032"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1R46BVgLnBXkVYAl31rKIF"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1R46BVgLnBXkVYAl31rKIF",
+          "id": "1R46BVgLnBXkVYAl31rKIF",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Hotelschool",
+          "popularity": 70,
+          "preview_url": "https://p.scdn.co/mp3-preview/25c782bfd927787f757a7b779e11c33c1696aad9?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:1R46BVgLnBXkVYAl31rKIF"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP"
+                },
+                "href": "https://api.spotify.com/v1/artists/5KZPlP5jQGBF3Z1kUq2ZUP",
+                "id": "5KZPlP5jQGBF3Z1kUq2ZUP",
+                "name": "Youp van 't Hek",
+                "type": "artist",
+                "uri": "spotify:artist:5KZPlP5jQGBF3Z1kUq2ZUP"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3gN3E0w6nm0KASQMo6gj1k"
+                },
+                "href": "https://api.spotify.com/v1/artists/3gN3E0w6nm0KASQMo6gj1k",
+                "id": "3gN3E0w6nm0KASQMo6gj1k",
+                "name": "Onno Molenkamp",
+                "type": "artist",
+                "uri": "spotify:artist:3gN3E0w6nm0KASQMo6gj1k"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/1bX8Zc5jJG5a2Lp4kdaFKw"
+            },
+            "href": "https://api.spotify.com/v1/albums/1bX8Zc5jJG5a2Lp4kdaFKw",
+            "id": "1bX8Zc5jJG5a2Lp4kdaFKw",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b8ad14fdb4a9cae4b78aaaa2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b8ad14fdb4a9cae4b78aaaa2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b8ad14fdb4a9cae4b78aaaa2",
+                "width": 64
+              }
+            ],
+            "name": "Tunnel Zonder Vluchtstrook",
+            "release_date": "1987",
+            "release_date_precision": "year",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:1bX8Zc5jJG5a2Lp4kdaFKw"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5KZPlP5jQGBF3Z1kUq2ZUP"
+              },
+              "href": "https://api.spotify.com/v1/artists/5KZPlP5jQGBF3Z1kUq2ZUP",
+              "id": "5KZPlP5jQGBF3Z1kUq2ZUP",
+              "name": "Youp van 't Hek",
+              "type": "artist",
+              "uri": "spotify:artist:5KZPlP5jQGBF3Z1kUq2ZUP"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3gN3E0w6nm0KASQMo6gj1k"
+              },
+              "href": "https://api.spotify.com/v1/artists/3gN3E0w6nm0KASQMo6gj1k",
+              "id": "3gN3E0w6nm0KASQMo6gj1k",
+              "name": "Onno Molenkamp",
+              "type": "artist",
+              "uri": "spotify:artist:3gN3E0w6nm0KASQMo6gj1k"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 67360,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLA240604154"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3mkp3O4ue6Vm4S3KaJu6pM"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3mkp3O4ue6Vm4S3KaJu6pM",
+          "id": "3mkp3O4ue6Vm4S3KaJu6pM",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Moeder (I)",
+          "popularity": 3,
+          "preview_url": "https://p.scdn.co/mp3-preview/eb0b92944b68f021250a81c941827b9b4f010e30?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:3mkp3O4ue6Vm4S3KaJu6pM"
+        }
+      ],
+      "limit": 20,
+      "next": "https://api.spotify.com/v1/search?query=Vluchtstrook&type=track&market=NL&offset=20&limit=20",
+      "offset": 0,
+      "previous": null,
+      "total": 46
+    }
+  },
+  "headers": {
+    "content-type": "application/json; charset=utf-8",
+    "cache-control": "public, max-age=7200",
+    "x-robots-tag": "noindex, nofollow",
+    "access-control-allow-origin": "*",
+    "access-control-allow-headers": "Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token",
+    "access-control-allow-methods": "GET, POST, OPTIONS, PUT, DELETE, PATCH",
+    "access-control-allow-credentials": "true",
+    "access-control-max-age": "604800",
+    "content-encoding": "gzip",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "date": "Sun, 17 Jul 2022 08:35:33 GMT",
+    "server": "envoy",
+    "via": "HTTP/2 edgeproxy, 1.1 google",
+    "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "connection": "close",
+    "transfer-encoding": "chunked"
+  },
+  "statusCode": 200
+}

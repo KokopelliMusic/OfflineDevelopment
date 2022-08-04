@@ -1,0 +1,576 @@
+{
+  "body": {
+    "tracks": {
+      "href": "https://api.spotify.com/v1/search?query=Faceshopping&type=track&market=NL&offset=0&limit=20",
+      "items": [
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+                },
+                "href": "https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu",
+                "id": "5a2w2tgpLwv26BYJf2qYwu",
+                "name": "SOPHIE",
+                "type": "artist",
+                "uri": "spotify:artist:5a2w2tgpLwv26BYJf2qYwu"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN"
+            },
+            "href": "https://api.spotify.com/v1/albums/23lnmHhZwyercCJhmyPXYN",
+            "id": "23lnmHhZwyercCJhmyPXYN",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273707a9f6ba139d99cafd1199d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02707a9f6ba139d99cafd1199d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851707a9f6ba139d99cafd1199d",
+                "width": 64
+              }
+            ],
+            "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+            "release_date": "2018-06-15",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:23lnmHhZwyercCJhmyPXYN"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+              },
+              "href": "https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu",
+              "id": "5a2w2tgpLwv26BYJf2qYwu",
+              "name": "SOPHIE",
+              "type": "artist",
+              "uri": "spotify:artist:5a2w2tgpLwv26BYJf2qYwu"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 236937,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "AUFF01800049"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2rN1ODOsaNfYu782rw36jR"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2rN1ODOsaNfYu782rw36jR",
+          "id": "2rN1ODOsaNfYu782rw36jR",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Faceshopping",
+          "popularity": 45,
+          "preview_url": "https://p.scdn.co/mp3-preview/4964e79420929a60f69166bc4dec3f8ae541afdd?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:2rN1ODOsaNfYu782rw36jR"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+                },
+                "href": "https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu",
+                "id": "5a2w2tgpLwv26BYJf2qYwu",
+                "name": "SOPHIE",
+                "type": "artist",
+                "uri": "spotify:artist:5a2w2tgpLwv26BYJf2qYwu"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
+            },
+            "href": "https://api.spotify.com/v1/albums/7vQKfsKKrI0xObMqojazHR",
+            "id": "7vQKfsKKrI0xObMqojazHR",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730a367e596bcb39ea69220d51",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020a367e596bcb39ea69220d51",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510a367e596bcb39ea69220d51",
+                "width": 64
+              }
+            ],
+            "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
+            "release_date": "2019-09-06",
+            "release_date_precision": "day",
+            "total_tracks": 25,
+            "type": "album",
+            "uri": "spotify:album:7vQKfsKKrI0xObMqojazHR"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+              },
+              "href": "https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu",
+              "id": "5a2w2tgpLwv26BYJf2qYwu",
+              "name": "SOPHIE",
+              "type": "artist",
+              "uri": "spotify:artist:5a2w2tgpLwv26BYJf2qYwu"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 313727,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "AUFF01900081"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6V5BvTmniJBBTQfVYk22qI"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6V5BvTmniJBBTQfVYk22qI",
+          "id": "6V5BvTmniJBBTQfVYk22qI",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Faceshopping - Euphoric Reduce Me To Nothingness Remix",
+          "popularity": 22,
+          "preview_url": "https://p.scdn.co/mp3-preview/2a4ac9214a76566c12e7cda552205d3080e79e6f?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 11,
+          "type": "track",
+          "uri": "spotify:track:6V5BvTmniJBBTQfVYk22qI"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+                },
+                "href": "https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu",
+                "id": "5a2w2tgpLwv26BYJf2qYwu",
+                "name": "SOPHIE",
+                "type": "artist",
+                "uri": "spotify:artist:5a2w2tgpLwv26BYJf2qYwu"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5H7irKbKky3nqJ7HfblHpL"
+            },
+            "href": "https://api.spotify.com/v1/albums/5H7irKbKky3nqJ7HfblHpL",
+            "id": "5H7irKbKky3nqJ7HfblHpL",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f6df0b80dd035a1584c5a452",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f6df0b80dd035a1584c5a452",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f6df0b80dd035a1584c5a452",
+                "width": 64
+              }
+            ],
+            "name": "Faceshopping",
+            "release_date": "2018-02-16",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:5H7irKbKky3nqJ7HfblHpL"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+              },
+              "href": "https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu",
+              "id": "5a2w2tgpLwv26BYJf2qYwu",
+              "name": "SOPHIE",
+              "type": "artist",
+              "uri": "spotify:artist:5a2w2tgpLwv26BYJf2qYwu"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 249224,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "AUFF01800006"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3nW3QgnF3if5cro5gDEQFw"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3nW3QgnF3if5cro5gDEQFw",
+          "id": "3nW3QgnF3if5cro5gDEQFw",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Faceshopping",
+          "popularity": 25,
+          "preview_url": "https://p.scdn.co/mp3-preview/33b10f802a8bdcdfc82b13d9c6a5af59ac98285c?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3nW3QgnF3if5cro5gDEQFw"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+                },
+                "href": "https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu",
+                "id": "5a2w2tgpLwv26BYJf2qYwu",
+                "name": "SOPHIE",
+                "type": "artist",
+                "uri": "spotify:artist:5a2w2tgpLwv26BYJf2qYwu"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
+            },
+            "href": "https://api.spotify.com/v1/albums/7vQKfsKKrI0xObMqojazHR",
+            "id": "7vQKfsKKrI0xObMqojazHR",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730a367e596bcb39ea69220d51",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020a367e596bcb39ea69220d51",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510a367e596bcb39ea69220d51",
+                "width": 64
+              }
+            ],
+            "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
+            "release_date": "2019-09-06",
+            "release_date_precision": "day",
+            "total_tracks": 25,
+            "type": "album",
+            "uri": "spotify:album:7vQKfsKKrI0xObMqojazHR"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+              },
+              "href": "https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu",
+              "id": "5a2w2tgpLwv26BYJf2qYwu",
+              "name": "SOPHIE",
+              "type": "artist",
+              "uri": "spotify:artist:5a2w2tgpLwv26BYJf2qYwu"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 164992,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "AUFF01900077"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1vN0G7aYkR0kWCospp2EEd"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1vN0G7aYkR0kWCospp2EEd",
+          "id": "1vN0G7aYkR0kWCospp2EEd",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Faceshopping - Lipstick Gel Remix",
+          "popularity": 19,
+          "preview_url": "https://p.scdn.co/mp3-preview/015fa5ad5f443fad577961879a0098210c4bb5d7?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:1vN0G7aYkR0kWCospp2EEd"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+                },
+                "href": "https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu",
+                "id": "5a2w2tgpLwv26BYJf2qYwu",
+                "name": "SOPHIE",
+                "type": "artist",
+                "uri": "spotify:artist:5a2w2tgpLwv26BYJf2qYwu"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
+            },
+            "href": "https://api.spotify.com/v1/albums/7vQKfsKKrI0xObMqojazHR",
+            "id": "7vQKfsKKrI0xObMqojazHR",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730a367e596bcb39ea69220d51",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020a367e596bcb39ea69220d51",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510a367e596bcb39ea69220d51",
+                "width": 64
+              }
+            ],
+            "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
+            "release_date": "2019-09-06",
+            "release_date_precision": "day",
+            "total_tracks": 25,
+            "type": "album",
+            "uri": "spotify:album:7vQKfsKKrI0xObMqojazHR"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+              },
+              "href": "https://api.spotify.com/v1/artists/5a2w2tgpLwv26BYJf2qYwu",
+              "id": "5a2w2tgpLwv26BYJf2qYwu",
+              "name": "SOPHIE",
+              "type": "artist",
+              "uri": "spotify:artist:5a2w2tgpLwv26BYJf2qYwu"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+              },
+              "href": "https://api.spotify.com/v1/artists/3jDtqAKltRxJi64svLZGj7",
+              "id": "3jDtqAKltRxJi64svLZGj7",
+              "name": "Bibi Bourelly",
+              "type": "artist",
+              "uri": "spotify:artist:3jDtqAKltRxJi64svLZGj7"
+            }
+          ],
+          "disc_number": 2,
+          "duration_ms": 233721,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "AUFF01900086"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4P0xzvJ25V6pxnJ25oX21R"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4P0xzvJ25V6pxnJ25oX21R",
+          "id": "4P0xzvJ25V6pxnJ25oX21R",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Faceshopping - Money Mix",
+          "popularity": 17,
+          "preview_url": "https://p.scdn.co/mp3-preview/4a25ea3c7c26a2436d6d485185e08f87f655c763?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:4P0xzvJ25V6pxnJ25oX21R"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6cVuw15IC3bq61Slx5BjqY"
+                },
+                "href": "https://api.spotify.com/v1/artists/6cVuw15IC3bq61Slx5BjqY",
+                "id": "6cVuw15IC3bq61Slx5BjqY",
+                "name": "Dear Rat Boy",
+                "type": "artist",
+                "uri": "spotify:artist:6cVuw15IC3bq61Slx5BjqY"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4fFNq24WEAL8UlWlwbnkD2"
+            },
+            "href": "https://api.spotify.com/v1/albums/4fFNq24WEAL8UlWlwbnkD2",
+            "id": "4fFNq24WEAL8UlWlwbnkD2",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cbf81cb56da14b85aaabc790",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02cbf81cb56da14b85aaabc790",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851cbf81cb56da14b85aaabc790",
+                "width": 64
+              }
+            ],
+            "name": "Covers Vol. Four",
+            "release_date": "2021-04-20",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:4fFNq24WEAL8UlWlwbnkD2"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6cVuw15IC3bq61Slx5BjqY"
+              },
+              "href": "https://api.spotify.com/v1/artists/6cVuw15IC3bq61Slx5BjqY",
+              "id": "6cVuw15IC3bq61Slx5BjqY",
+              "name": "Dear Rat Boy",
+              "type": "artist",
+              "uri": "spotify:artist:6cVuw15IC3bq61Slx5BjqY"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 230518,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "QZES52179880"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0CsHf7xO7JUlQtjKDDSOZh"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0CsHf7xO7JUlQtjKDDSOZh",
+          "id": "0CsHf7xO7JUlQtjKDDSOZh",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Faceshopping",
+          "popularity": 0,
+          "preview_url": "https://p.scdn.co/mp3-preview/509346bc3c39ff7baa36c2c607fe5045128b3f4b?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:0CsHf7xO7JUlQtjKDDSOZh"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4uGe2cV6IYIpM56wDOu3SX"
+                },
+                "href": "https://api.spotify.com/v1/artists/4uGe2cV6IYIpM56wDOu3SX",
+                "id": "4uGe2cV6IYIpM56wDOu3SX",
+                "name": "Mangy Music",
+                "type": "artist",
+                "uri": "spotify:artist:4uGe2cV6IYIpM56wDOu3SX"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0EVHki5NsPz8bBsVlzoGEW"
+            },
+            "href": "https://api.spotify.com/v1/albums/0EVHki5NsPz8bBsVlzoGEW",
+            "id": "0EVHki5NsPz8bBsVlzoGEW",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d576bc5dbdce4854aae63c9a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d576bc5dbdce4854aae63c9a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d576bc5dbdce4854aae63c9a",
+                "width": 64
+              }
+            ],
+            "name": "Pearls",
+            "release_date": "2022-02-27",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:0EVHki5NsPz8bBsVlzoGEW"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4uGe2cV6IYIpM56wDOu3SX"
+              },
+              "href": "https://api.spotify.com/v1/artists/4uGe2cV6IYIpM56wDOu3SX",
+              "id": "4uGe2cV6IYIpM56wDOu3SX",
+              "name": "Mangy Music",
+              "type": "artist",
+              "uri": "spotify:artist:4uGe2cV6IYIpM56wDOu3SX"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 89566,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "GX3HH2201831"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/67HgfXIPxyiV53PXHV8nX7"
+          },
+          "href": "https://api.spotify.com/v1/tracks/67HgfXIPxyiV53PXHV8nX7",
+          "id": "67HgfXIPxyiV53PXHV8nX7",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Faceshopping",
+          "popularity": 0,
+          "preview_url": "https://p.scdn.co/mp3-preview/db3b0673824b889e233275861c5744e02e250f9c?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:67HgfXIPxyiV53PXHV8nX7"
+        }
+      ],
+      "limit": 20,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total": 7
+    }
+  },
+  "headers": {
+    "content-type": "application/json; charset=utf-8",
+    "cache-control": "public, max-age=7200",
+    "x-robots-tag": "noindex, nofollow",
+    "access-control-allow-origin": "*",
+    "access-control-allow-headers": "Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token",
+    "access-control-allow-methods": "GET, POST, OPTIONS, PUT, DELETE, PATCH",
+    "access-control-allow-credentials": "true",
+    "access-control-max-age": "604800",
+    "content-encoding": "gzip",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "date": "Sun, 17 Jul 2022 08:35:05 GMT",
+    "server": "envoy",
+    "via": "HTTP/2 edgeproxy, 1.1 google",
+    "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "connection": "close",
+    "transfer-encoding": "chunked"
+  },
+  "statusCode": 200
+}

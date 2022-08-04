@@ -1,3 +1,12 @@
+Kachina
+Tawa
+Wiharu
+supabase
+spotify_auth_api
+dump.sql
+settings.conf
+redis
+
 # Logs
 logs
 *.log
@@ -102,3 +111,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Supabase
+**/supabase/.branches
+**/supabase/.temp

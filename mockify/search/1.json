@@ -1,0 +1,1016 @@
+{
+  "body": {
+    "tracks": {
+      "href": "https://api.spotify.com/v1/search?query=Adje+voor+de+sfeer&type=track&market=NL&offset=0&limit=20",
+      "items": [
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5taDUsSVxmBk7wRTTPe6IQ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5taDUsSVxmBk7wRTTPe6IQ",
+                "id": "5taDUsSVxmBk7wRTTPe6IQ",
+                "name": "Ad Van Opstal",
+                "type": "artist",
+                "uri": "spotify:artist:5taDUsSVxmBk7wRTTPe6IQ"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/7hTWcKNGcAe4FgDSquDNtL"
+            },
+            "href": "https://api.spotify.com/v1/albums/7hTWcKNGcAe4FgDSquDNtL",
+            "id": "7hTWcKNGcAe4FgDSquDNtL",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27303985333324dc9558f2fe331",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0203985333324dc9558f2fe331",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485103985333324dc9558f2fe331",
+                "width": 64
+              }
+            ],
+            "name": "Adje Voor De Sfeer",
+            "release_date": "2020-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:7hTWcKNGcAe4FgDSquDNtL"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5taDUsSVxmBk7wRTTPe6IQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5taDUsSVxmBk7wRTTPe6IQ",
+              "id": "5taDUsSVxmBk7wRTTPe6IQ",
+              "name": "Ad Van Opstal",
+              "type": "artist",
+              "uri": "spotify:artist:5taDUsSVxmBk7wRTTPe6IQ"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 190694,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLW2R1929119"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1Wd7QHlj6wOvrDBvQqepUg"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1Wd7QHlj6wOvrDBvQqepUg",
+          "id": "1Wd7QHlj6wOvrDBvQqepUg",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Adje Voor De Sfeer",
+          "popularity": 22,
+          "preview_url": "https://p.scdn.co/mp3-preview/a81e98a0907273a0143c53c3a48114a0490f627f?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:1Wd7QHlj6wOvrDBvQqepUg"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+                },
+                "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+                "id": "3upXQVqKZlTKRES3LQ9VjO",
+                "name": "Rene Karst",
+                "type": "artist",
+                "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6PujTxjH2gjAtGXiKZMW82"
+            },
+            "href": "https://api.spotify.com/v1/albums/6PujTxjH2gjAtGXiKZMW82",
+            "id": "6PujTxjH2gjAtGXiKZMW82",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273437e84d6f118fe0ef8e17af8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02437e84d6f118fe0ef8e17af8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851437e84d6f118fe0ef8e17af8",
+                "width": 64
+              }
+            ],
+            "name": "Atje Voor De Sfeer - En Andere Sfeermakers",
+            "release_date": "2019-08-30",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:6PujTxjH2gjAtGXiKZMW82"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+              },
+              "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+              "id": "3upXQVqKZlTKRES3LQ9VjO",
+              "name": "Rene Karst",
+              "type": "artist",
+              "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 198222,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLZ291900124"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2bJaewMbxlwnm69zvOAq3s"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2bJaewMbxlwnm69zvOAq3s",
+          "id": "2bJaewMbxlwnm69zvOAq3s",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Atje Voor De Sfeer",
+          "popularity": 51,
+          "preview_url": "https://p.scdn.co/mp3-preview/810813f88dd47c564279abdad0f2ea9792af9a6b?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:2bJaewMbxlwnm69zvOAq3s"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+                },
+                "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+                "id": "3upXQVqKZlTKRES3LQ9VjO",
+                "name": "Rene Karst",
+                "type": "artist",
+                "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
+                },
+                "href": "https://api.spotify.com/v1/artists/1MD43KaP0yNmH4ffApOecX",
+                "id": "1MD43KaP0yNmH4ffApOecX",
+                "name": "Altijd Larstig & Rob Gasd'rop",
+                "type": "artist",
+                "uri": "spotify:artist:1MD43KaP0yNmH4ffApOecX"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0Ripl5LqGqXADBc0Hk6zLk"
+            },
+            "href": "https://api.spotify.com/v1/albums/0Ripl5LqGqXADBc0Hk6zLk",
+            "id": "0Ripl5LqGqXADBc0Hk6zLk",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27343275f0d2f1aa49385a6644c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0243275f0d2f1aa49385a6644c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485143275f0d2f1aa49385a6644c",
+                "width": 64
+              }
+            ],
+            "name": "Atje Voor De Sfeer (Hardstyle Remix)",
+            "release_date": "2019-06-14",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:0Ripl5LqGqXADBc0Hk6zLk"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+              },
+              "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+              "id": "3upXQVqKZlTKRES3LQ9VjO",
+              "name": "Rene Karst",
+              "type": "artist",
+              "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
+              },
+              "href": "https://api.spotify.com/v1/artists/1MD43KaP0yNmH4ffApOecX",
+              "id": "1MD43KaP0yNmH4ffApOecX",
+              "name": "Altijd Larstig & Rob Gasd'rop",
+              "type": "artist",
+              "uri": "spotify:artist:1MD43KaP0yNmH4ffApOecX"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1myBj6evBtp3BonQcL4uFc"
+              },
+              "href": "https://api.spotify.com/v1/artists/1myBj6evBtp3BonQcL4uFc",
+              "id": "1myBj6evBtp3BonQcL4uFc",
+              "name": "Poar Neem'n",
+              "type": "artist",
+              "uri": "spotify:artist:1myBj6evBtp3BonQcL4uFc"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 171566,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLZ291900156"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/42CxtPzRkuHA1wyQr78W1S"
+          },
+          "href": "https://api.spotify.com/v1/tracks/42CxtPzRkuHA1wyQr78W1S",
+          "id": "42CxtPzRkuHA1wyQr78W1S",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Atje Voor De Sfeer - Hardstyle Remix",
+          "popularity": 43,
+          "preview_url": "https://p.scdn.co/mp3-preview/34390c9218628df9d3c49f858db20e10c1649013?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:42CxtPzRkuHA1wyQr78W1S"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+                },
+                "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+                "id": "3upXQVqKZlTKRES3LQ9VjO",
+                "name": "Rene Karst",
+                "type": "artist",
+                "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6PujTxjH2gjAtGXiKZMW82"
+            },
+            "href": "https://api.spotify.com/v1/albums/6PujTxjH2gjAtGXiKZMW82",
+            "id": "6PujTxjH2gjAtGXiKZMW82",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273437e84d6f118fe0ef8e17af8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02437e84d6f118fe0ef8e17af8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851437e84d6f118fe0ef8e17af8",
+                "width": 64
+              }
+            ],
+            "name": "Atje Voor De Sfeer - En Andere Sfeermakers",
+            "release_date": "2019-08-30",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:6PujTxjH2gjAtGXiKZMW82"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+              },
+              "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+              "id": "3upXQVqKZlTKRES3LQ9VjO",
+              "name": "Rene Karst",
+              "type": "artist",
+              "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0qadSnl99IzsHDlG1BEwcb"
+              },
+              "href": "https://api.spotify.com/v1/artists/0qadSnl99IzsHDlG1BEwcb",
+              "id": "0qadSnl99IzsHDlG1BEwcb",
+              "name": "DJ Maurice",
+              "type": "artist",
+              "uri": "spotify:artist:0qadSnl99IzsHDlG1BEwcb"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 165000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLZ291900149"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0skgP2KpYX7du1PUJSUeco"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0skgP2KpYX7du1PUJSUeco",
+          "id": "0skgP2KpYX7du1PUJSUeco",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Atje Voor De Sfeer - DJ Maurice Remix",
+          "popularity": 37,
+          "preview_url": "https://p.scdn.co/mp3-preview/da73940b68d8cfc1f01536125d6518c9553be052?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 15,
+          "type": "track",
+          "uri": "spotify:track:0skgP2KpYX7du1PUJSUeco"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+                },
+                "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+                "id": "3upXQVqKZlTKRES3LQ9VjO",
+                "name": "Rene Karst",
+                "type": "artist",
+                "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/3Wh8ABf35XEnM3ZKRL5M14"
+            },
+            "href": "https://api.spotify.com/v1/albums/3Wh8ABf35XEnM3ZKRL5M14",
+            "id": "3Wh8ABf35XEnM3ZKRL5M14",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c6430e4a11ab483bc4a89151",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c6430e4a11ab483bc4a89151",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c6430e4a11ab483bc4a89151",
+                "width": 64
+              }
+            ],
+            "name": "Atje Voor De Sfeer",
+            "release_date": "2019-03-15",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:3Wh8ABf35XEnM3ZKRL5M14"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+              },
+              "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+              "id": "3upXQVqKZlTKRES3LQ9VjO",
+              "name": "Rene Karst",
+              "type": "artist",
+              "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 198222,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLZ291900124"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1YxLxQ8QCGsrtSLuQzpSUz"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1YxLxQ8QCGsrtSLuQzpSUz",
+          "id": "1YxLxQ8QCGsrtSLuQzpSUz",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Atje Voor De Sfeer",
+          "popularity": 41,
+          "preview_url": "https://p.scdn.co/mp3-preview/810813f88dd47c564279abdad0f2ea9792af9a6b?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:1YxLxQ8QCGsrtSLuQzpSUz"
+        },
+        {
+          "album": {
+            "album_type": "album",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+                },
+                "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+                "id": "3upXQVqKZlTKRES3LQ9VjO",
+                "name": "Rene Karst",
+                "type": "artist",
+                "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/6PujTxjH2gjAtGXiKZMW82"
+            },
+            "href": "https://api.spotify.com/v1/albums/6PujTxjH2gjAtGXiKZMW82",
+            "id": "6PujTxjH2gjAtGXiKZMW82",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273437e84d6f118fe0ef8e17af8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02437e84d6f118fe0ef8e17af8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851437e84d6f118fe0ef8e17af8",
+                "width": 64
+              }
+            ],
+            "name": "Atje Voor De Sfeer - En Andere Sfeermakers",
+            "release_date": "2019-08-30",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:6PujTxjH2gjAtGXiKZMW82"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+              },
+              "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+              "id": "3upXQVqKZlTKRES3LQ9VjO",
+              "name": "Rene Karst",
+              "type": "artist",
+              "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+              },
+              "href": "https://api.spotify.com/v1/artists/1cUsaZWQDILKpljyM7FWXm",
+              "id": "1cUsaZWQDILKpljyM7FWXm",
+              "name": "Stef Ekkel",
+              "type": "artist",
+              "uri": "spotify:artist:1cUsaZWQDILKpljyM7FWXm"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 235840,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLE871613601"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2rKFSvEBn6lPmkrCKeXUQq"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2rKFSvEBn6lPmkrCKeXUQq",
+          "id": "2rKFSvEBn6lPmkrCKeXUQq",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Liever Te Dik In De Kist",
+          "popularity": 52,
+          "preview_url": "https://p.scdn.co/mp3-preview/b93d39c7a79dd6893eeac8d514f3645d6892fa30?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:2rKFSvEBn6lPmkrCKeXUQq"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+                },
+                "href": "https://api.spotify.com/v1/artists/6jhluGyF1XVIlfPol7oXqa",
+                "id": "6jhluGyF1XVIlfPol7oXqa",
+                "name": "Mart Hoogkamer",
+                "type": "artist",
+                "uri": "spotify:artist:6jhluGyF1XVIlfPol7oXqa"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/65DiFaOKycQjpuAFpKTOfG"
+            },
+            "href": "https://api.spotify.com/v1/albums/65DiFaOKycQjpuAFpKTOfG",
+            "id": "65DiFaOKycQjpuAFpKTOfG",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27341fb71f964bf948a5b9bb06e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0241fb71f964bf948a5b9bb06e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485141fb71f964bf948a5b9bb06e",
+                "width": 64
+              }
+            ],
+            "name": "Ik Ga Zwemmen",
+            "release_date": "2021-07-15",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:65DiFaOKycQjpuAFpKTOfG"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+              },
+              "href": "https://api.spotify.com/v1/artists/6jhluGyF1XVIlfPol7oXqa",
+              "id": "6jhluGyF1XVIlfPol7oXqa",
+              "name": "Mart Hoogkamer",
+              "type": "artist",
+              "uri": "spotify:artist:6jhluGyF1XVIlfPol7oXqa"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 179363,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLQ272100059"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1f9X68h6QGh01bD0r4g9DF"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1f9X68h6QGh01bD0r4g9DF",
+          "id": "1f9X68h6QGh01bD0r4g9DF",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Ik Ga Zwemmen",
+          "popularity": 64,
+          "preview_url": "https://p.scdn.co/mp3-preview/7354df617bae424146fb36c61174e3038a36dd9e?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:1f9X68h6QGh01bD0r4g9DF"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3VTVxM9FFSMMrnO3nOh9Si"
+                },
+                "href": "https://api.spotify.com/v1/artists/3VTVxM9FFSMMrnO3nOh9Si",
+                "id": "3VTVxM9FFSMMrnO3nOh9Si",
+                "name": "Lamme Frans",
+                "type": "artist",
+                "uri": "spotify:artist:3VTVxM9FFSMMrnO3nOh9Si"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4GVDeN7nIgb5E1EBVcJQ0Z"
+            },
+            "href": "https://api.spotify.com/v1/albums/4GVDeN7nIgb5E1EBVcJQ0Z",
+            "id": "4GVDeN7nIgb5E1EBVcJQ0Z",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733f496b5be5280c9a64a0c1a9",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023f496b5be5280c9a64a0c1a9",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513f496b5be5280c9a64a0c1a9",
+                "width": 64
+              }
+            ],
+            "name": "Handjes Handjes Bloemetjesgordijn",
+            "release_date": "2020-01-23",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:4GVDeN7nIgb5E1EBVcJQ0Z"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3VTVxM9FFSMMrnO3nOh9Si"
+              },
+              "href": "https://api.spotify.com/v1/artists/3VTVxM9FFSMMrnO3nOh9Si",
+              "id": "3VTVxM9FFSMMrnO3nOh9Si",
+              "name": "Lamme Frans",
+              "type": "artist",
+              "uri": "spotify:artist:3VTVxM9FFSMMrnO3nOh9Si"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 209531,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLKQ32018850"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2UmY8P75MAgyzIpQ9lNbMC"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2UmY8P75MAgyzIpQ9lNbMC",
+          "id": "2UmY8P75MAgyzIpQ9lNbMC",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Handjes Handjes Bloemetjesgordijn",
+          "popularity": 40,
+          "preview_url": "https://p.scdn.co/mp3-preview/8e4ffe31fdfac348f081eebf2eccc46c951ba76d?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:2UmY8P75MAgyzIpQ9lNbMC"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3VTVxM9FFSMMrnO3nOh9Si"
+                },
+                "href": "https://api.spotify.com/v1/artists/3VTVxM9FFSMMrnO3nOh9Si",
+                "id": "3VTVxM9FFSMMrnO3nOh9Si",
+                "name": "Lamme Frans",
+                "type": "artist",
+                "uri": "spotify:artist:3VTVxM9FFSMMrnO3nOh9Si"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/4S2G4B0LSqgyDUbuT6J1kD"
+            },
+            "href": "https://api.spotify.com/v1/albums/4S2G4B0LSqgyDUbuT6J1kD",
+            "id": "4S2G4B0LSqgyDUbuT6J1kD",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731ed01261cc799d1092637ee2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021ed01261cc799d1092637ee2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511ed01261cc799d1092637ee2",
+                "width": 64
+              }
+            ],
+            "name": "Handjes Handjes Bloemetjesgordijn (Pimpteam Happy Hoempapa Stampwaoge Remix)",
+            "release_date": "2020-01-23",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:4S2G4B0LSqgyDUbuT6J1kD"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3VTVxM9FFSMMrnO3nOh9Si"
+              },
+              "href": "https://api.spotify.com/v1/artists/3VTVxM9FFSMMrnO3nOh9Si",
+              "id": "3VTVxM9FFSMMrnO3nOh9Si",
+              "name": "Lamme Frans",
+              "type": "artist",
+              "uri": "spotify:artist:3VTVxM9FFSMMrnO3nOh9Si"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 161382,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLSB72000017"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3BIkwBFrxIlAJImUII0p7t"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3BIkwBFrxIlAJImUII0p7t",
+          "id": "3BIkwBFrxIlAJImUII0p7t",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Handjes Handjes Bloemetjesgordijn - Pimpteam Happy Hoempapa Stampwaoge Remix",
+          "popularity": 35,
+          "preview_url": "https://p.scdn.co/mp3-preview/5378ab5b5fa3ba3c03d632179c080552b31e9b1e?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:3BIkwBFrxIlAJImUII0p7t"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+                },
+                "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+                "id": "3upXQVqKZlTKRES3LQ9VjO",
+                "name": "Rene Karst",
+                "type": "artist",
+                "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0qadSnl99IzsHDlG1BEwcb"
+                },
+                "href": "https://api.spotify.com/v1/artists/0qadSnl99IzsHDlG1BEwcb",
+                "id": "0qadSnl99IzsHDlG1BEwcb",
+                "name": "DJ Maurice",
+                "type": "artist",
+                "uri": "spotify:artist:0qadSnl99IzsHDlG1BEwcb"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/5r1Gsw6Pa4032dKOV14k22"
+            },
+            "href": "https://api.spotify.com/v1/albums/5r1Gsw6Pa4032dKOV14k22",
+            "id": "5r1Gsw6Pa4032dKOV14k22",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732b6a0efdfd7c13087a4ff960",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022b6a0efdfd7c13087a4ff960",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512b6a0efdfd7c13087a4ff960",
+                "width": 64
+              }
+            ],
+            "name": "Atje Voor De Sfeer (DJ Maurice Remix)",
+            "release_date": "2019-05-24",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:5r1Gsw6Pa4032dKOV14k22"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+              },
+              "href": "https://api.spotify.com/v1/artists/3upXQVqKZlTKRES3LQ9VjO",
+              "id": "3upXQVqKZlTKRES3LQ9VjO",
+              "name": "Rene Karst",
+              "type": "artist",
+              "uri": "spotify:artist:3upXQVqKZlTKRES3LQ9VjO"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0qadSnl99IzsHDlG1BEwcb"
+              },
+              "href": "https://api.spotify.com/v1/artists/0qadSnl99IzsHDlG1BEwcb",
+              "id": "0qadSnl99IzsHDlG1BEwcb",
+              "name": "DJ Maurice",
+              "type": "artist",
+              "uri": "spotify:artist:0qadSnl99IzsHDlG1BEwcb"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 165000,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "NLZ291900149"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6LAGAzthU6SV8riX88qPZ6"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6LAGAzthU6SV8riX88qPZ6",
+          "id": "6LAGAzthU6SV8riX88qPZ6",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Atje Voor De Sfeer - DJ Maurice Remix",
+          "popularity": 20,
+          "preview_url": "https://p.scdn.co/mp3-preview/da73940b68d8cfc1f01536125d6518c9553be052?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:6LAGAzthU6SV8riX88qPZ6"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4iNmG6wxyn4LhYrMYnYFao"
+                },
+                "href": "https://api.spotify.com/v1/artists/4iNmG6wxyn4LhYrMYnYFao",
+                "id": "4iNmG6wxyn4LhYrMYnYFao",
+                "name": "Louis Flion",
+                "type": "artist",
+                "uri": "spotify:artist:4iNmG6wxyn4LhYrMYnYFao"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/0ZBS2Tg3YREGOBSmThNQOv"
+            },
+            "href": "https://api.spotify.com/v1/albums/0ZBS2Tg3YREGOBSmThNQOv",
+            "id": "0ZBS2Tg3YREGOBSmThNQOv",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f0d37637df3c6d1570b2b2f2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f0d37637df3c6d1570b2b2f2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f0d37637df3c6d1570b2b2f2",
+                "width": 64
+              }
+            ],
+            "name": "Vol Met Alcohol",
+            "release_date": "2019-08-30",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:0ZBS2Tg3YREGOBSmThNQOv"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4iNmG6wxyn4LhYrMYnYFao"
+              },
+              "href": "https://api.spotify.com/v1/artists/4iNmG6wxyn4LhYrMYnYFao",
+              "id": "4iNmG6wxyn4LhYrMYnYFao",
+              "name": "Louis Flion",
+              "type": "artist",
+              "uri": "spotify:artist:4iNmG6wxyn4LhYrMYnYFao"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 197386,
+          "explicit": false,
+          "external_ids": {
+            "isrc": "BEU301900009"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0NhWfXLfMGGAwez5YJpd9M"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0NhWfXLfMGGAwez5YJpd9M",
+          "id": "0NhWfXLfMGGAwez5YJpd9M",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Vol Met Alcohol",
+          "popularity": 18,
+          "preview_url": "https://p.scdn.co/mp3-preview/0b20300efe43dad7339aa679e27a37b8cc2f8c3d?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:0NhWfXLfMGGAwez5YJpd9M"
+        },
+        {
+          "album": {
+            "album_type": "single",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2p48aDHcW8UYRns7qdo6VK"
+                },
+                "href": "https://api.spotify.com/v1/artists/2p48aDHcW8UYRns7qdo6VK",
+                "id": "2p48aDHcW8UYRns7qdo6VK",
+                "name": "Hangmat",
+                "type": "artist",
+                "uri": "spotify:artist:2p48aDHcW8UYRns7qdo6VK"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2X20dkm2r7O9xHjJ7tUGib"
+            },
+            "href": "https://api.spotify.com/v1/albums/2X20dkm2r7O9xHjJ7tUGib",
+            "id": "2X20dkm2r7O9xHjJ7tUGib",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739a3a7dd324e720f7a960a782",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029a3a7dd324e720f7a960a782",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519a3a7dd324e720f7a960a782",
+                "width": 64
+              }
+            ],
+            "name": "After Party",
+            "release_date": "2022-03-22",
+            "release_date_precision": "day",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:2X20dkm2r7O9xHjJ7tUGib"
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2p48aDHcW8UYRns7qdo6VK"
+              },
+              "href": "https://api.spotify.com/v1/artists/2p48aDHcW8UYRns7qdo6VK",
+              "id": "2p48aDHcW8UYRns7qdo6VK",
+              "name": "Hangmat",
+              "type": "artist",
+              "uri": "spotify:artist:2p48aDHcW8UYRns7qdo6VK"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 159166,
+          "explicit": true,
+          "external_ids": {
+            "isrc": "QZES72257070"
+          },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4gnsnKQ4SOVe7Zi22AWrco"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4gnsnKQ4SOVe7Zi22AWrco",
+          "id": "4gnsnKQ4SOVe7Zi22AWrco",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Tranqi",
+          "popularity": 1,
+          "preview_url": "https://p.scdn.co/mp3-preview/82e91f5b66161b795b1dd3c69194dade56daaead?cid=2f9fc491c9e94ae0998077ea9854e9ce",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:4gnsnKQ4SOVe7Zi22AWrco"
+        }
+      ],
+      "limit": 20,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total": 12
+    }
+  },
+  "headers": {
+    "content-type": "application/json; charset=utf-8",
+    "cache-control": "public, max-age=7200",
+    "x-robots-tag": "noindex, nofollow",
+    "access-control-allow-origin": "*",
+    "access-control-allow-headers": "Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token",
+    "access-control-allow-methods": "GET, POST, OPTIONS, PUT, DELETE, PATCH",
+    "access-control-allow-credentials": "true",
+    "access-control-max-age": "604800",
+    "content-encoding": "gzip",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "date": "Sun, 17 Jul 2022 08:33:20 GMT",
+    "server": "envoy",
+    "via": "HTTP/2 edgeproxy, 1.1 google",
+    "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "connection": "close",
+    "transfer-encoding": "chunked"
+  },
+  "statusCode": 200
+}
